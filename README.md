@@ -1,6 +1,6 @@
 https://makinthestuff.github.io/
 
-<img width="1360" alt="Screenshot 2023-05-11 at 12 19 31 AM" src="https://github.com/makinTheStuff/makinTheStuff.github.io/assets/93022219/263a547c-0cff-4ccf-9215-493da4f34532">
+<img width="1340" alt="Screenshot 2023-05-11 at 12 25 15 AM" src="https://github.com/makinTheStuff/makinTheStuff.github.io/assets/93022219/4d53f2fb-bbdf-49d7-af22-cd84e6906c09">
 
 I thought it might be nice to share the journey
 
