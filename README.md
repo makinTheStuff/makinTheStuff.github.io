@@ -33,7 +33,7 @@ I thought it might be nice to share the journey
 <details>
 
   <summary>Moment of truth</summary>
-  Getting to this point was fuckin brutal if I'm being honest. I would love to tell the story some time but all I'll say for now is I wouldn't trade the time we spent in the trenches together for anything. And of course, I'm glad to say it worked!
+  I'd love to tell the story some time but all I'll say for now is I wouldn't trade the time we spent in the trenches together for anything. And of course, I'm glad to say it worked!
   
 ![dual cpvc 17 + 19](https://user-images.githubusercontent.com/93022219/235834828-553a8a9e-5061-4a70-9e9e-4f5278c735be.jpg)
 ![radiators 2](https://user-images.githubusercontent.com/93022219/235834910-7a3b08ff-ab36-4099-b28b-49f509e7e15c.jpg)
