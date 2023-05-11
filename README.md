@@ -1,6 +1,9 @@
 https://makinthestuff.github.io/
 
+s19j pro 104TH (underclocked)
 <img width="1340" alt="Screenshot 2023-05-11 at 12 25 15 AM" src="https://github.com/makinTheStuff/makinTheStuff.github.io/assets/93022219/4d53f2fb-bbdf-49d7-af22-cd84e6906c09">
+s19 95th (underclocked)
+<img width="1341" alt="Screenshot 2023-05-11 at 1 00 07 AM" src="https://github.com/makinTheStuff/makinTheStuff.github.io/assets/93022219/77200270-152a-4f22-b817-b540133cfe6c">
 
 I thought it might be nice to share the journey
 
