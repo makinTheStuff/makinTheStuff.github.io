@@ -1,5 +1,6 @@
 https://makinthestuff.github.io/
-<img width="1351" alt="s19jpro" src="https://user-images.githubusercontent.com/93022219/235834263-29b4b11f-098f-4988-8829-833df8379b4a.png">
+
+<img width="1360" alt="Screenshot 2023-05-11 at 12 19 31 AM" src="https://github.com/makinTheStuff/makinTheStuff.github.io/assets/93022219/263a547c-0cff-4ccf-9215-493da4f34532">
 
 I thought it might be nice to share the journey
 
